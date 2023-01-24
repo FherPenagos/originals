@@ -1,0 +1,2 @@
+axel creo que en verde es que esta en seguimiento el archivo
+y con el commit es que se guardan
